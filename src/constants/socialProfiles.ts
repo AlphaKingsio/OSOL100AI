@@ -33,7 +33,7 @@ export const SOCIAL_PROFILES: SocialProfileType[] = [
     id: 'obot',
     name: 'OBOT Official',
     description: 'Future of automated trading',
-    imageUrl: 'https://pbs.twimg.com/profile_images/1758508897955512320/ZFcG6wXa_400x400.jpg',
+    imageUrl: 'https://github.com/AlphaKingsio/osol100/blob/main/src/image/obot_400x400.jpg?raw=true',
     profileUrl: 'https://x.com/OBOT_OFFICIAL'
   },
   {
