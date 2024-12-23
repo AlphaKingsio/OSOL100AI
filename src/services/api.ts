@@ -21,7 +21,9 @@ const COIN_LIST = [
   'size', 'neroboss', 'gmika', 'kira-3', 'convo', 'sqrfund', 'ugly-dog',
   'gemxbt', 'roastmaster9000', 'nova-on-mars', 'sendor', 'flowerai',
   'dojo-protocol', 'internosaur', 'devin', 'lea-ai', 'rex-3', 'aletheia',
-  'mona-arcane', 'apicoin', 'cyphomancer', 'lucy-ai', 'agent-rogue'
+  'mona-arcane', 'apicoin', 'cyphomancer', 'lucy-ai', 'agent-rogue', 'devin', 'io-net'
+];
+];
 ];
 
 // Create rate-limited API client
